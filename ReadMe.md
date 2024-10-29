@@ -1,4 +1,4 @@
-<br> Multiple Linear Regression </br>
+**Multiple Linear Regression**
 
 Fits a simple Multiple Linear Regression model without interactions but to generated data (iglu.xlsx) using generated resting state functional Magnetic Resonance Imaging (rs-FMRI) data.
 Test data was generate using ./linear_model_R/generate_test_data.m to control the fitting procedure of the model.
