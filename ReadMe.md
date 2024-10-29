@@ -1,6 +1,6 @@
 **Multiple Linear Regression**
 
-Fits a simple Multiple Linear Regression model without interaction effects to generated data (iglu.xlsx) using generated resting state functional Magnetic Resonance Imaging (rs-FMRI) data.
+Fits a simple Multiple Linear Regression model without interaction effects to predict the first principal component (PC1) of generated data (iglu.xlsx) using generated resting state functional Magnetic Resonance Imaging (rs-FMRI) data.
 
 
 Test data was generate using ./linear_model_R/generate_test_data.m to control the fitting procedure of the model.
